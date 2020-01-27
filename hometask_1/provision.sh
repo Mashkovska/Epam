@@ -2,4 +2,4 @@
 
 echo "Installing Apache and setting apache up... please wait"
 apt-get update 
-apt-get install -y apache2 
+apt-get install -y apache2
